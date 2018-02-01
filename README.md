@@ -34,7 +34,7 @@ We expect people to follow these rules at all event venues, at social events, an
 ## Contacts
 * Sam Williams, President. samuel.williams@student.reading.ac.uk
 * Charlie Cooke, Treasurer. gb007401@student.reading.ac.uk
-* Andrejus Kostarevas andrejusk@outlook.com
+* Andrejus Kostarevas a.kostarevas@student.reading.ac.uk
 
 R. U. Hacking reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact R. U. Hackoing by e-mail at hey@ruhacking.me.
 

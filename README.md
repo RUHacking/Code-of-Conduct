@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Last updated 01 Febuary 2018
+Last updated 01 February 2018
 
 We believe that everyone has the right to be in a safe and welcoming environment when attending events run, or supported, by R. U. Hacking. 
 
